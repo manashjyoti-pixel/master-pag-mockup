@@ -4,12 +4,12 @@ Standalone React workflow demonstration for Super Admin, managed-service, white-
 
 ## Review links
 
-**Hosting status:** the source is pushed, but Ishvara-Tech administrators have disabled creation of GitHub Pages sites. The URLs below are the intended organisation-hosted routes and are not live yet. Personal-account Pages hosting is awaiting the owner's choice. The complete demo can be run locally meanwhile.
+**Hosting:** the demo is hosted on the owner-approved personal GitHub Pages account. The Ishvara-Tech repository is retained as the organisation copy. All company data is synthetic and external actions are simulated.
 
-- Super Admin: https://ishvara-tech.github.io/master-pag-mockup/#/super/dashboard
-- Managed service: https://ishvara-tech.github.io/master-pag-mockup/#/managed/dashboard
-- White-label: https://ishvara-tech.github.io/master-pag-mockup/#/white/dashboard
-- SaaS: https://ishvara-tech.github.io/master-pag-mockup/#/saas/dashboard
+- Super Admin: https://manashjyoti-pixel.github.io/master-pag-mockup/#/super/dashboard
+- Managed service: https://manashjyoti-pixel.github.io/master-pag-mockup/#/managed/dashboard
+- White-label: https://manashjyoti-pixel.github.io/master-pag-mockup/#/white/dashboard
+- SaaS: https://manashjyoti-pixel.github.io/master-pag-mockup/#/saas/dashboard
 
 ## Ten to fifteen minute walkthrough
 
